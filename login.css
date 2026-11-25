@@ -1,0 +1,9 @@
+body{
+background-color:pink;
+font-weight:bold;
+}
+
+button{
+    border-radius: 5px;
+    margin-top: auto;
+}
